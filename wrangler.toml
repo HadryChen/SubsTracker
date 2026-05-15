@@ -32,5 +32,5 @@ crons = ["0 * * * *"]
 ENVIRONMENT = "production"
 
 [[routes]]
-pattern = "msg.rel.qzz.io"
+pattern = "sub.rel.qzz.io"
 custom_domain = true
